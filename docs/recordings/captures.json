@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-20T22:34:30.928534+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Job reliability lab",
+  "report_sha256_normalized_text": "21d697ae73cfaed76e3718df3a097f9e5ef272993d163fc663084258e7cccbc4",
+  "video_sha256": "81e534e69365a0b6b494424d974a45db9833e94f8decb34ed98e2cacdfc05fc9",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "65cbaf8ea5c7407b13d1cfab75bbfe1c5ad81174317664d93241fc1536e8d096"
+    },
+    {
+      "path": "docs/screenshots/02_delivery.png",
+      "section": "delivery",
+      "sha256": "31579b86a62ccfbcb5f02e573b3829b1b772d689f055dfdddeb47f1f3dfbc741"
+    },
+    {
+      "path": "docs/screenshots/03_retries.png",
+      "section": "retries",
+      "sha256": "fc3f3b0735f7546a4cf1a3966d39041813d9d2436c44a61b34f17dbed5bd0273"
+    },
+    {
+      "path": "docs/screenshots/04_leases.png",
+      "section": "leases",
+      "sha256": "126ca39e5c8715930410d63619793a73b7e2b4be07f705f4418fc1b1638f42cb"
+    },
+    {
+      "path": "docs/screenshots/05_traces.png",
+      "section": "traces",
+      "sha256": "11323e48a7097cd2d01f03450ef617b3e77af66e1564605c957d903a223afbca"
+    },
+    {
+      "path": "docs/screenshots/06_runbook.png",
+      "section": "runbook",
+      "sha256": "74bc7167f004dc44fc4cb67a992ae755dac7d7cf18473f3d5e0b96ce1b0a18c6"
+    }
+  ]
+}
