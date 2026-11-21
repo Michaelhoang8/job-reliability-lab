@@ -1,5 +1,7 @@
 # Job reliability lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/job-reliability-lab/)**
+
 A reproducible distributed-systems/SRE study of job delivery, worker crashes, visibility timeouts, retry budgets and idempotent effects. **This is a discrete-event simulation, not a deployed broker or live infrastructure benchmark.** Every duration is logical time.
 
 ![Duplicate effects in simulated scenarios](docs/charts/01_duplicate_effects.png)
