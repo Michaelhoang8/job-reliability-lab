@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-11-20T22:34:30.928534+00:00",
+  "captured_at_utc": "2026-11-21T01:04:44.497750+00:00",
   "source": "Actual browser rendering of docs/report.html",
   "recording": "Continuous automated browser review; not manual development footage",
   "viewport": {
@@ -7,8 +7,8 @@
     "height": 1000
   },
   "page_title": "Job reliability lab",
-  "report_sha256_normalized_text": "21d697ae73cfaed76e3718df3a097f9e5ef272993d163fc663084258e7cccbc4",
-  "video_sha256": "81e534e69365a0b6b494424d974a45db9833e94f8decb34ed98e2cacdfc05fc9",
+  "report_sha256_normalized_text": "3e15fbc452db971b4cd8330f1eb11ad17c9c82725f3e4a5611da2ad5b7d49f13",
+  "video_sha256": "4751570e6de708f30889a3c259abc5e9e45065d1aae02cbf311b2c0194e8ab0f",
   "captures": [
     {
       "path": "docs/screenshots/01_overview.png",
